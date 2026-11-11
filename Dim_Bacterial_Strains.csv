@@ -1,0 +1,8 @@
+strain_id,strain_name,gram_type,clinical_source
+101,Staphylococcus aureus,Gram-Positive,Wound Swab
+102,Streptococcus pneumoniae,Gram-Positive,Sputum
+103,Enterococcus faecalis,Gram-Positive,Urine
+104,Escherichia coli,Gram-Negative,Urine
+105,Pseudomonas aeruginosa,Gram-Negative,Burn Wound
+106,Klebsiella pneumoniae,Gram-Negative,Blood Culture
+107,Salmonella enterica,Gram-Negative,Stool
